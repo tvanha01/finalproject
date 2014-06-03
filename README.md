@@ -2,7 +2,7 @@ finalproject
 ============
 
  
-##2) Crazy maze game 
+## Crazy maze game 
 ###The objective of the game is to move your curser through the maze until you reach the fourth level.  
 ###There are a total of three levels plus one. 
 ###Make it past the third level, and you are in for a crazy suprise! 
